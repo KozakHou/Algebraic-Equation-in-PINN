@@ -9,3 +9,7 @@ such as THEMIS, Interbal ...), I was on got recruited by J.H. Shue to his resear
 
 The picture below is the function form of Shue et al.[1997/1998], which is clearly an algebraic equation. Now that I pursuing solving this equation to inverse the 
 parameters of it. I have to examine what on earth the PINN can be applied on simple algebraic equation ? That's why I validated it via sinusodial wave (Sine).
+
+
+self-construct Model Flow
+![alt text for screen readers](https://github.com/KozakHou "Text to show on mouseover")
