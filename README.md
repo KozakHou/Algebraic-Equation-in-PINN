@@ -12,4 +12,4 @@ parameters of it. I have to examine what on earth the PINN can be applied on sim
 
 
 
-![alt text for screen readers](https://github.com/KozakHou/Algebraic-Equation-in-PINN/blob/main/Shue%20et%20al%201997%20%26%201998.png")Text to show on mouseover")
+![alt text for screen readers](https://github.com/KozakHou/Algebraic-Equation-in-PINN/blob/main/Shue%20et%20al%201997%20%26%201998.png)"Text to show on mouseover")
