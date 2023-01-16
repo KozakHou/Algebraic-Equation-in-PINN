@@ -11,5 +11,5 @@ The picture below is the function form of Shue et al.[1997/1998], which is clear
 parameters of it. I have to examine what on earth the PINN can be applied on simple algebraic equation ? That's why I validated it via sinusodial wave (Sine).
 
 
-self-construct Model Flow
-![alt text for screen readers](https://github.com/KozakHou/Algebraic-Equation-in-PINN/blob/main/Shue%20et%20al%201997%20%26%201998.png"Text to show on mouseover")
+
+![alt text for screen readers](https://github.com/KozakHou/Algebraic-Equation-in-PINN/blob/main/Shue%20et%20al%201997%20%26%201998.png")Text to show on mouseover")
